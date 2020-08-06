@@ -96,7 +96,7 @@
             android:name=".handlers.VulnerableContentProvider"
             android:authorities="com.htbridge.pivaa"
             android:enabled="true"
-            android:exported="false"
+            android:exported="true"
             android:grantUriPermissions="true"
             android:protectionLevel="dangerous"
             />
